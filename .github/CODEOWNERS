@@ -1,0 +1,4 @@
+# Every change needs review from the code owner. Personal test repo: you.
+# Company repo: replace @Ruwanc with @YOUR-ORG/cloud-engineering (the team needs write access).
+*                @Ruwanc
+/.github/        @Ruwanc

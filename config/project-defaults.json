@@ -1,0 +1,19 @@
+{
+  "_comment": "Settings used by scripts/new_project.py. Replace the REPLACE values before the first real run.",
+  "module_source": "./modules/gcp-project",
+  "project_id_prefix": "syy-",
+  "folder_id": "REPLACE-000000000000",
+  "billing_account": "REPLACE-000000-000000-000000",
+  "activate_apis": [
+    "cloudresourcemanager.googleapis.com",
+    "serviceusage.googleapis.com"
+  ],
+  "default_branch": "master",
+  "labels": {
+    "technical_applicationname": "{app_team_name}",
+    "technical_platformowner": "{technical_owner}",
+    "business_budgetapprover": "{budget_approver}",
+    "business_supportgroup": "{support_group}",
+    "servicenow_ritm": "{ritm}"
+  }
+}
